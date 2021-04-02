@@ -1,6 +1,6 @@
 nav{
 
-    background-color: burlywood;
+    background-color: lightgray;
     height: 50px;
 
 }
@@ -13,13 +13,45 @@ a{
     margin: 1%;
 }
 body{
-    background-color: beige;
+    background-color: rgb(220, 227, 230);
 }
 
-.Description{
-    width: 40%;
+.AboutMe{
+    width: 50%;
     float: right;
-    margin-right: 5%;
-    border: 2px solid black;
+    margin-right: 20%;
     padding: 5px;
+    background-color: rgb(220, 227, 230);
+    margin-top: 5%;
+
 }
+
+.ProjectList{
+    width: 50%;
+    float: right;
+    margin-right: 20%;
+    padding: 5px;
+    margin-bottom: 100%;
+    background-color: rgb(220, 227, 230);
+    
+}
+
+.ProjectList a{
+    color: red;
+}
+
+.Profile{
+    display: flex;
+    
+}
+
+.Profile h1{
+    margin-left:20% ;
+    margin-top: 10%;
+    font-size: 3em;
+    text-decoration: underline;
+}
+
+.Home
+
+
