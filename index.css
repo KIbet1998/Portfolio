@@ -15,16 +15,11 @@ a{
 body{
     background-color: beige;
 }
-h2{
-    padding-left: 5%;
 
-}
-.AboutMe{
-    text-align: center;
-    margin: -30% -10% 20% 2%;
-    font-family: sans-serif;
-
-    
-    
-    
+.Description{
+    width: 40%;
+    float: right;
+    margin-right: 5%;
+    border: 2px solid black;
+    padding: 5px;
 }
