@@ -17,8 +17,7 @@ body{
 }
 
 .AboutMe{
-    width: 50%;
-    float: right;
+    width: 350px;
     margin-right: 20%;
     padding: 5px;
     background-color: rgb(220, 227, 230);
@@ -27,31 +26,39 @@ body{
 }
 
 .ProjectList{
-    width: 50%;
-    float: right;
+    width: 40%;
+    float: inline-end;
     margin-right: 20%;
-    padding: 5px;
+    padding-bottom: px;
     margin-bottom: 100%;
     background-color: rgb(220, 227, 230);
+    
     
 }
 
 .ProjectList a{
     color: red;
-}
-
-.Profile{
-    display: flex;
     
 }
 
-.Profile h1{
-    margin-left:20% ;
-    margin-top: 10%;
-    font-size: 3em;
-    text-decoration: underline;
+
+
+.ProfileA{
+    margin-left:35% ;
+    margin-top: 3%;
+    font-size: 2em;
+    margin-right: 10%;
 }
 
-.Home
+.Name{
+    display: auto;
+    margin-left: 35%;
+}
+.column{
+    float: right;
+    width: 350px;
+    padding-bottom: 200px;
+}
+
 
 
