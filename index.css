@@ -46,6 +46,7 @@ body{
     flex-direction: row;
     padding-left: 25%;
     margin: 5px;
+    
 }
 
 .left{
@@ -62,6 +63,12 @@ body{
 }
 
 .Contacts{
+    border:none;
+    border-bottom: 1px solid;
+    padding-right: 50%;
+    width: 100%;
+    outline: none;
+    background:none;
     
 }
 
