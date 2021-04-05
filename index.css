@@ -51,6 +51,9 @@ body{
 
 .left{
     width: 350px;
+    height: auto;
+    clear: both;
+    height: 560px;
 }
 
 .intro{
@@ -65,11 +68,15 @@ body{
 .Contacts{
     border:none;
     border-bottom: 1px solid;
-    padding-right: 50%;
-    width: 100%;
+    width: 30%;
     outline: none;
     background:none;
-    
+    margin-left: 40%;
+    float: left;
+    padding-left: 20px;
+    margin-bottom: 10%;
+
+     
 }
 
 
