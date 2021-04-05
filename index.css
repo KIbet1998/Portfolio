@@ -45,6 +45,7 @@ body{
     display: flex;
     flex-direction: row;
     padding-left: 25%;
+    margin: 5px;
 }
 
 .left{
@@ -53,6 +54,11 @@ body{
 
 .intro{
     background-color: beige;
+}
+
+.Head{
+    text-align: center;
+    text-decoration: underline;
 }
 
 
